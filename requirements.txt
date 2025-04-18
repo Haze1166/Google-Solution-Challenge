@@ -1,0 +1,11 @@
+streamlit
+requests
+python-dotenv
+langchain
+langchain-google-genai
+pandas
+folium
+streamlit-folium
+google-generativeai
+gTTS
+geopy
